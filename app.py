@@ -5,7 +5,7 @@ from time import sleep
 from threading import Thread, Event
 import random
 
-__author__ = 'slynn'
+__author__ = 'shraddheya'
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
